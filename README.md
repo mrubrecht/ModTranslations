@@ -3,6 +3,8 @@ This is the repository for translations to Anteater46's mods.
 
 All translators are greatly appreciated and given credit in the 'mods' page when the client loads, as well as on the project page of the mod.
 
+You can see a list of available languages (and their prefixes) [on the wiki by clicking here.](https://minecraft.gamepedia.com/Language#Available_languages)
+
 #### With all my mods, you can look at the issues to see if any translations are out of date.
 
 ## Flour Power
