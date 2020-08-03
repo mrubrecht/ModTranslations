@@ -1,5 +1,8 @@
 {
   "item.flourpower.flour":"Farine",
   "item.flourpower.flour_paste":"Pâte de farine",
-  "tooltip.flourpaste.0":"Peut être utilisé comme une boule de Slime."
+  "item.flourpower.smoked_bread": "Pain brioché",
+
+  "tooltip.flourpaste.0":"Peut être utilisé comme une boule de Slime.",
+  "tooltip.smokedbread.0": "Parfait avec du beurre d'érable !"
 }
