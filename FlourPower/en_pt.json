@@ -1,5 +1,8 @@
 {
   "item.flourpower.flour":"FlouARR",
   "item.flourpower.flour_paste": "FlouARR Paste!",
-  "item.flourpower.smoked_bread": "Smokey Hard Tack"
+  "item.flourpower.smoked_bread": "Smokey Scone",
+
+  "tooltip.flourpaste.0":"Can be used as a ball o' slime.",
+  "tooltip.smokedbread.0": "Perfect with clotted cream and jam!"
 }
